@@ -8,7 +8,7 @@
 
 ## installation (new cloud)
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Randi356/telegraph-imagebot
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Randi356/telegraph-imagebot)
 
 Libraries used: => Pyrogram => Telegraph
 
