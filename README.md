@@ -12,4 +12,4 @@
 
 Libraries used: => Pyrogram => Telegraph
 
-deploy [@sithum batrow](https://t.me/sibatrow)
+deploy [@alexander](https://t.me/FlashProSpeed)
