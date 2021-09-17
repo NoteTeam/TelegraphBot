@@ -12,7 +12,7 @@
 
 Libraries used: => Pyrogram => Telegraph
 
-deploy [@alexander](https://t.me/FlashProSpeed)
+OWNER 😎 [@alexander](https://t.me/FlashProSpeed)
 
 ## VARIABLES 🤖
 
