@@ -1,7 +1,7 @@
 {
-  "name": "batrow Image upload bot",
+  "name": "telegraph imagebot",
   "description": "A bot to upload telegram images to telegraph",
-  "repository": "https://github.com/sbatrow/Image-UploadBotSI",
+  "repository": "https://github.com/Randi356/telegraph-imagebot",
   "logo": "https://telegra.ph/file/c9b60bbc3e6ad1479ac2a.jpg",
   "keywords": ["telegram", "telegraph", "imageuploader","telegram bot"],
   "env": {
