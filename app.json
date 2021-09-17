@@ -2,7 +2,7 @@
   "name": "telegraph imagebot",
   "description": "A bot to upload telegram images to telegraph",
   "repository": "https://github.com/Randi356/telegraph-imagebot",
-  "logo": "https://telegra.ph/file/c9b60bbc3e6ad1479ac2a.jpg",
+  "logo": "https://telegra.ph/file/7fb89ba4f540c4f87b420.jpg",
   "keywords": ["telegram", "telegraph", "imageuploader","telegram bot"],
   "env": {
      "BOT_TOKEN": {
