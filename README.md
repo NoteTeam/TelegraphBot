@@ -1,4 +1,4 @@
-# telegraph-imagebot by alexander [@FlashSpeedPro
+# telegraph-imagebot by alexander [@FlashProSpeed
 
 <p align="center">
   <img src="https://telegra.ph/file/7fb89ba4f540c4f87b420.jpg">
