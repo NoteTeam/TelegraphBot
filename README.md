@@ -13,3 +13,9 @@
 Libraries used: => Pyrogram => Telegraph
 
 deploy [@alexander](https://t.me/FlashProSpeed)
+
+## VARIABLES 🤖
+
+- `BOT_TOKEN` =from @botfather
+- `API_ID` =from https://my.telegram.org/apps
+- `API_HASH` =from https://my.telegram.org/apps
