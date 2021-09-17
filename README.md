@@ -1,5 +1,9 @@
 # telegraph-imagebot by alexander [@FlashSpeedPro
 
+<p align="center">
+  <img src="https://telegra.ph/file/7fb89ba4f540c4f87b420.jpg">
+</p>
+
 > A simplest telegram to telegra.ph image uploader bot
 
 ## installation (easy way)
